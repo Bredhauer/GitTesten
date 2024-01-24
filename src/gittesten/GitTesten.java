@@ -17,7 +17,7 @@ public class GitTesten {
         System.out.println("Mit \"git revert HEAD\" macht man den letzten Commit rückgängig."
                 + "Gleichzeitig wird ein neuer Commit durchgeführt.");
                 
-        
+        System.out.println("Mit \"git log\" lassen wir uns die bisherigen Commits anzeigen");
     }
     
 }
