@@ -14,7 +14,7 @@ public class GitTesten {
                 + "Zuvor musste ich mit \"git add --all\" alle im Projekt enthaltenen Dateien"
                 + "für den Commit hinzufügen");
         
-        System.out.println("Aenderung");
+                
         
     }
     
