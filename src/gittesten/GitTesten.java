@@ -6,14 +6,16 @@ public class GitTesten {
         
         System.out.println("Ich arbeite heute das erste Mal mit Git");
         System.out.println("Ein Git Repository habe ich bereits initialisiert");
-        System.out.println("Der Befehl hierfÃ¼r lautet: git init");
+        System.out.println("Der Befehl hierfür lautet: git init");
         
-        System.out.println("Gerade habe ich meinen ersten Commit durchgefÃ¼hrt"
+        System.out.println("Gerade habe ich meinen ersten Commit durchgeführt"
                 + "und damit die aktuelle Version in meinem lokalen Repository gespeichert");
         System.out.println("Das ging mit dem Befehl \"git commit\"."
                 + "Zuvor musste ich mit \"git add --all\" alle im Projekt enthaltenen Dateien"
-                + "fÃ¼r den Commit hinzufÃ¼gen");
+                + "für den Commit hinzufügen");
         
+        System.out.println("Mit \"git revert HEAD\" macht man den letzten Commit rückgängig."
+                + "Gleichzeitig wird ein neuer Commit durchgeführt.");
                 
         
     }
