@@ -1,0 +1,33 @@
+[33mcommit 27751dc02f3023093d953f60288e688748ca548a[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Eugen <ebredhauer@cdtnue.onmicrosoft.com>
+Date:   Wed Jan 24 14:12:23 2024 +0100
+
+    Revert "Revert "Noch eine Aendereung""
+    
+    This reverts commit 5938c0ebf59fe8ddb4b2e7418570bd53483190aa.
+
+[33mcommit 5938c0ebf59fe8ddb4b2e7418570bd53483190aa[m
+Author: Eugen <ebredhauer@cdtnue.onmicrosoft.com>
+Date:   Wed Jan 24 14:11:23 2024 +0100
+
+    Revert "Noch eine Aendereung"
+    
+    This reverts commit 2ffe5696ff77feacd4e0385e42af3e00538819b1.
+
+[33mcommit 2ffe5696ff77feacd4e0385e42af3e00538819b1[m
+Author: Eugen <ebredhauer@cdtnue.onmicrosoft.com>
+Date:   Wed Jan 24 14:10:52 2024 +0100
+
+    Noch eine Aendereung
+
+[33mcommit d08c544bd66e69a14e2977bc9b25a52da9564db1[m
+Author: Eugen <ebredhauer@cdtnue.onmicrosoft.com>
+Date:   Wed Jan 24 14:03:50 2024 +0100
+
+    GitTesten modifiziert
+
+[33mcommit 54a81227668cc0775831bae85da9b78ce496027c[m
+Author: Eugen <ebredhauer@cdtnue.onmicrosoft.com>
+Date:   Wed Jan 24 13:50:39 2024 +0100
+
+    Mein erster Commit
