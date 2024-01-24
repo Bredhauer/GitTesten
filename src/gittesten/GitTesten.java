@@ -11,7 +11,7 @@ public class GitTesten {
         System.out.println("Gerade habe ich meinen ersten Commit durchgeführt"
                 + "und damit die aktuelle Version in meinem lokalen Repository gespeichert");
         System.out.println("Das ging mit dem Befehl \"git commit\"."
-                + "Zuvor musste ich mit \"git add --add\" alle im Projekt enthaltenen Dateien"
+                + "Zuvor musste ich mit \"git add --all\" alle im Projekt enthaltenen Dateien"
                 + "für den Commit hinzufügen");
         
                 
