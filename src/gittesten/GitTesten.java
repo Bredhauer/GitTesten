@@ -18,6 +18,8 @@ public class GitTesten {
                 + "Gleichzeitig wird ein neuer Commit durchgeführt.");
                 
         System.out.println("Mit \"git log\" lassen wir uns die bisherigen Commits anzeigen");
+        
+        System.out.println("myFirstBranch");
     }
     
 }
